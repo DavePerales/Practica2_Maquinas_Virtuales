@@ -38,6 +38,7 @@ Crear y configurar dos máquinas virtuales en Azure.
 ![Conectando la máquina virtual 1](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/02.png)
 
 15. Damos click en **Descargar archivo RDP**, sin embargo, para poder abrir este archivo es necesarior ir a la Microsoft Store y descarga la aplicación _Remote Desktop_.
+
 ![Remote Desktop](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/03.png)
 
 16. Una vez descargado el archivo procedemos a abrirlo con la aplicación _Remote Desktop_.
