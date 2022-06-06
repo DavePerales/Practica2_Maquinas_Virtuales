@@ -31,18 +31,18 @@ Crear y configurar dos máquinas virtuales en Azure.
 12. Finalmente damos click en **Revisar y crear** y esperamos a que se complete la implementación.
 13. Podemos observar las dos máquinas virtuales dentro de nuestro grupo de recursos _sesion4-vm1_group_.
 
-![Máquinas virtuales](imgs/01.png)
+![Máquinas virtuales](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/01.png)
 
 14. Seleccionamos la máquina virtual  _Sesion4-vm1_ y damos click en **Conectar** y seleccionamos la opción _RDP_. 
 
-![Conectando la máquina virtual 1](imgs/02.png)
+![Conectando la máquina virtual 1](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/02.png)
 
 15. Damos click en **Descargar archivo RDP**, sin embargo, para poder abrir este archivo es necesarior ir a la Microsoft Store y descarga la aplicación _Remote Desktop_.
-![Remote Desktop](imgs/03.png)
+![Remote Desktop](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/03.png)
 
 16. Una vez descargado el archivo procedemos a abrirlo con la aplicación _Remote Desktop_.
 
-![Remote Desktop](imgs/04.png)
+![Remote Desktop](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/04.png)
 
 17. Iniciamos sesión con el usuario y contraseña que configuramos en el **paso 7**.
 
@@ -53,7 +53,7 @@ Crear y configurar dos máquinas virtuales en Azure.
 
 Esta dirección puede ser consultada en la sección _Dispositivos conectados_ dentro de _sesion4-vm1_group-vnet_
 
-![Direcciones IP](imgs/05.png)
+![Direcciones IP](https://github.com/DavePerales/Practica2_Maquinas_Virtuales/blob/main/05.png)
 
 19. Después de escribir el comando mstsc podemos acceder a la segunda máquina virtual dentro de la primer máquina virtual.
 
